@@ -9,7 +9,8 @@
     --cor-borda: #cecece;
     --cor-sombra: #ccc;
     --cor-branca: #fff;
-    --bg-image: url('../fundo 2.jpg')
+    --bg-image: url('../Imagens/claro.jpg');
+    --overlay-opacity: 0.1;
 
     /* Fontes */
     --fonte-padrao: Arial, Tahoma, Verdana;
